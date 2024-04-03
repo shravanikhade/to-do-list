@@ -1,5 +1,6 @@
 ## .preview
-![To-Do List App](https://i.ibb.co/h73STxF/screencapture-localhost-5500-2020-11-29-22-11-39.png)
+![To-Do List App](![Screenshot](https://github.com/shravanikhade/to-do-list/assets/101621972/2f911378-c04b-4b9e-b6fb-fcb6e0065f23)
+)
 
 ## .features
 - [x] Show tasks list
